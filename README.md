@@ -24,12 +24,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShradhaSharma18&show_icons=true&theme=dracula" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShradhaSharma18&layout=compact&theme=dracula" width="48%" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](www.linkedin.com/in/shradha-sharma-05395330b) 
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shradha-sharma-05395330b)
 - 📬 Email: shradhasharma590@gmail.com
